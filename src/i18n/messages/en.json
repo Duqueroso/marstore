@@ -1,0 +1,257 @@
+{
+  "common": {
+    "brandName": "Mar Store",
+    "tagline": "Your fashion and style destination"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Sign In",
+    "logout": "Sign Out"
+  },
+  "hero": {
+    "title": "Welcome to Mar Store",
+    "subtitle": "Discover the latest fashion and style trends. Premium quality, incredible prices.",
+    "cta": "Explore Collection"
+  },
+  "features": {
+    "title": "Why choose Mar Store?",
+    "fashion": {
+      "title": "Fashion Clothing",
+      "description": "Discover the latest trends in women's and men's fashion. Quality garments that adapt to your style."
+    },
+    "accessories": {
+      "title": "Accessories",
+      "description": "Complete your look with our exclusive accessories. From jewelry to designer bags."
+    },
+    "footwear": {
+      "title": "Footwear",
+      "description": "Find the perfect pair for every occasion. Comfort and style in every step."
+    },
+    "shipping": {
+      "title": "Free Shipping",
+      "description": "Enjoy free shipping on purchases over $50. Fast and secure delivery."
+    },
+    "returns": {
+      "title": "Easy Returns",
+      "description": "30 days for hassle-free returns. Your satisfaction is our priority."
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Our team is available to help you anytime. Contact us whenever you need."
+    }
+  },
+  "footer": {
+    "description": "Your fashion and style destination. Quality, elegance and the latest trends in one place.",
+    "shop": "Shop",
+    "women": "Women",
+    "men": "Men",
+    "accessories": "Accessories",
+    "offers": "Offers",
+    "help": "Help",
+    "faq": "FAQ",
+    "shipping": "Shipping",
+    "returns": "Returns",
+    "sizes": "Sizes",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "careers": "Careers",
+    "sustainability": "Sustainability",
+    "rights": "All rights reserved."
+  },
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "createAccount": "Create your account",
+    "signIn": "Sign In",
+    "register": "Sign Up",
+    "signOut": "Sign Out",
+    "orContinueWith": "Or continue with",
+    "backToHome": "Back to home",
+    "signInBenefits": "By signing in you can:",
+    "benefit1": "Shop faster",
+    "benefit2": "Save your favorite products",
+    "benefit3": "Track your orders",
+    "benefit4": "Receive exclusive offers"
+  },
+  "forms": {
+    "fullName": "Full Name",
+    "email": "Email",
+    "documento": "ID Number",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullNamePlaceholder": "John Doe",
+    "emailPlaceholder": "your@email.com",
+    "documentoHint": "Numbers only, between 6 and 15 characters",
+    "passwordHint": "Minimum 8 characters, one uppercase, one lowercase and one number",
+    "signIn": "Sign In",
+    "createAccount": "Create Account",
+    "signingIn": "Signing in...",
+    "registering": "Registering..."
+  },
+  "validation": {
+    "required": "This field is required",
+    "nameRequired": "Name is required",
+    "nameMin": "Name must be at least 3 characters",
+    "nameMax": "Name cannot exceed 100 characters",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Invalid email",
+    "documentoRequired": "ID number is required",
+    "documentoInvalid": "ID must contain only numbers (6-15 characters)",
+    "passwordRequired": "Password is required",
+    "passwordMin": "Password must be at least 8 characters",
+    "passwordUppercase": "Must contain at least one uppercase letter",
+    "passwordLowercase": "Must contain at least one lowercase letter",
+    "passwordNumber": "Must contain at least one number",
+    "confirmPasswordRequired": "Confirm your password",
+    "passwordsMatch": "Passwords do not match",
+    "fixErrors": "Please fix the errors in the form"
+  },
+  "errors": {
+    "serverError": "Error connecting to server",
+    "invalidCredentials": "Invalid ID or password",
+    "registrationFailed": "Error registering user",
+    "registeredButLoginFailed": "Registration successful, but there was an error signing in. Please sign in manually.",
+    "fixErrors": "Please fix the errors in the form"
+  },
+  "products": {
+    "title": "Our Products",
+    "createProduct": "Create Product",
+    "editProduct": "Edit Product",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "saving": "Saving...",
+    "cancel": "Cancel",
+    "addToCart": "Add to Cart",
+    "addedToCart": "added to cart",
+    "stock": "Stock",
+    "outOfStock": "Out of Stock",
+    "loginToBuy": "Sign in to buy",
+    "allCategories": "All Categories",
+    "noProducts": "No products available",
+    "confirmDelete": "Are you sure you want to delete this product?",
+    "errorCreating": "Error creating product",
+    "errorUpdating": "Error updating product",
+    "errorDeleting": "Error deleting product",
+    "categories": {
+      "women": "Women",
+      "men": "Men",
+      "accessories": "Accessories",
+      "footwear": "Footwear"
+    },
+    "form": {
+      "name": "Product Name",
+      "description": "Description",
+      "price": "Price",
+      "stock": "Stock",
+      "category": "Category",
+      "images": "Images",
+      "uploadImages": "Upload images from your device",
+      "uploadImagesHint": "Click to select images (you can select multiple)"
+    },
+    "uploadingImage": "Uploading image...",
+    "errorUploadingImage": "Error uploading image"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help. Send us a message and we'll respond as soon as possible.",
+    "success": "Message sent! We've received your inquiry and will respond soon. Check your email for our thank you message.",
+    "error": "Error sending message. Please try again.",
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "hours": "Business Hours",
+      "schedule": "Monday to Friday: 9:00 AM - 6:00 PM",
+      "social": "Follow Us on Social Media"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Full Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending..."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Discover the story behind Mar Store and our passion for fashion",
+    "hero": {
+      "title": "Our Story",
+      "description": "Since 2020, Mar Store has been your trusted destination for fashion and style. We started with a dream: to make quality fashion accessible to everyone."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "Inspire confidence and style in every person through exceptional quality garments, unique designs, and unparalleled customer service. We believe fashion is a form of personal expression."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the leading fashion brand in Colombia, recognized for our innovation, sustainability, and commitment to our customers. We want every person to find their unique style with us."
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": {
+        "title": "Quality",
+        "description": "We carefully select each product to ensure durable materials and impeccable finishes."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We constantly explore new trends and technologies to offer you the best of the fashion world."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "We are committed to responsible practices that care for our planet and the communities around us."
+      },
+      "customer": {
+        "title": "Customer First",
+        "description": "Your satisfaction is our priority. We're here to make your shopping experience exceptional."
+      }
+    },
+    "stats": {
+      "customers": "Happy Customers",
+      "products": "Products",
+      "years": "Years of Experience",
+      "satisfaction": "Satisfaction"
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "A passionate team of professionals dedicated to bringing you the best fashion experience."
+    },
+    "cta": {
+      "title": "Ready to explore?",
+      "description": "Discover our collection and find your unique style.",
+      "button": "View Products"
+    }
+  },
+  "cart": {
+    "title": "My Cart",
+    "empty": "Your cart is empty",
+    "emptyDescription": "Add products to your cart to start shopping.",
+    "continueShopping": "Continue Shopping",
+    "item": "item",
+    "items": "items",
+    "quantity": "Quantity",
+    "price": "Price",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "remove": "Remove",
+    "clearCart": "Clear Cart",
+    "checkout": "Proceed to Checkout",
+    "confirmClear": "Are you sure you want to clear the cart?",
+    "itemAdded": "Product added to cart",
+    "itemRemoved": "Product removed from cart",
+    "itemUpdated": "Quantity updated",
+    "summary": "Order Summary",
+    "shipping": "Shipping",
+    "freeShipping": "Free",
+    "tax": "Tax (19%)",
+    "outOfStock": "Out of stock",
+    "maxQuantity": "Maximum stock reached"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "common": {
+    "brandName": "Mar Store",
+    "tagline": "Tu destino de moda y estilo"
+  },
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "categories": "Categorías",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión"
+  },
+  "hero": {
+    "title": "Bienvenido a Mar Store",
+    "subtitle": "Descubre las últimas tendencias en moda y estilo. Calidad premium, precios increíbles.",
+    "cta": "Explorar Colección"
+  },
+  "features": {
+    "title": "¿Por qué elegir Mar Store?",
+    "fashion": {
+      "title": "Ropa de Moda",
+      "description": "Descubre las últimas tendencias en moda femenina y masculina. Prendas de calidad que se adaptan a tu estilo."
+    },
+    "accessories": {
+      "title": "Accesorios",
+      "description": "Complementa tu look con nuestros accesorios exclusivos. Desde joyería hasta bolsos de diseño."
+    },
+    "footwear": {
+      "title": "Calzado",
+      "description": "Encuentra el par perfecto para cada ocasión. Comodidad y estilo en cada paso."
+    },
+    "shipping": {
+      "title": "Envío Gratis",
+      "description": "Disfruta de envío gratuito en compras superiores a $50. Entrega rápida y segura."
+    },
+    "returns": {
+      "title": "Devoluciones Fáciles",
+      "description": "30 días para devoluciones sin complicaciones. Tu satisfacción es nuestra prioridad."
+    },
+    "support": {
+      "title": "Soporte 24/7",
+      "description": "Nuestro equipo está disponible para ayudarte en cualquier momento. Contáctanos cuando lo necesites."
+    }
+  },
+  "footer": {
+    "description": "Tu destino de moda y estilo. Calidad, elegancia y las últimas tendencias en un solo lugar.",
+    "shop": "Comprar",
+    "women": "Mujer",
+    "men": "Hombre",
+    "accessories": "Accesorios",
+    "offers": "Ofertas",
+    "help": "Ayuda",
+    "faq": "Preguntas Frecuentes",
+    "shipping": "Envíos",
+    "returns": "Devoluciones",
+    "sizes": "Tallas",
+    "company": "Empresa",
+    "aboutUs": "Sobre Nosotros",
+    "contact": "Contacto",
+    "careers": "Trabaja con Nosotros",
+    "sustainability": "Sostenibilidad",
+    "rights": "Todos los derechos reservados."
+  },
+  "auth": {
+    "welcomeBack": "Bienvenido de vuelta",
+    "createAccount": "Crea tu cuenta",
+    "signIn": "Iniciar Sesión",
+    "register": "Registrarse",
+    "signOut": "Cerrar Sesión",
+    "orContinueWith": "O continúa con",
+    "backToHome": "Volver al inicio",
+    "signInBenefits": "Al iniciar sesión podrás:",
+    "benefit1": "Realizar compras más rápido",
+    "benefit2": "Guardar tus productos favoritos",
+    "benefit3": "Hacer seguimiento de tus pedidos",
+    "benefit4": "Recibir ofertas exclusivas"
+  },
+  "forms": {
+    "fullName": "Nombre Completo",
+    "email": "Email",
+    "documento": "Número de Documento",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "fullNamePlaceholder": "Juan Pérez",
+    "emailPlaceholder": "tu@email.com",
+    "documentoHint": "Solo números, entre 6 y 15 caracteres",
+    "passwordHint": "Mínimo 8 caracteres, una mayúscula, una minúscula y un número",
+    "signIn": "Iniciar Sesión",
+    "createAccount": "Crear Cuenta",
+    "signingIn": "Iniciando sesión...",
+    "registering": "Registrando..."
+  },
+  "validation": {
+    "required": "Este campo es requerido",
+    "nameRequired": "El nombre es requerido",
+    "nameMin": "El nombre debe tener al menos 3 caracteres",
+    "nameMax": "El nombre no puede exceder 100 caracteres",
+    "emailRequired": "El email es requerido",
+    "emailInvalid": "Email inválido",
+    "documentoRequired": "El documento es requerido",
+    "documentoInvalid": "El documento debe contener solo números (6-15 caracteres)",
+    "passwordRequired": "La contraseña es requerida",
+    "passwordMin": "La contraseña debe tener al menos 8 caracteres",
+    "passwordUppercase": "Debe contener al menos una letra mayúscula",
+    "passwordLowercase": "Debe contener al menos una letra minúscula",
+    "passwordNumber": "Debe contener al menos un número",
+    "confirmPasswordRequired": "Confirma tu contraseña",
+    "passwordsMatch": "Las contraseñas no coinciden",
+    "fixErrors": "Por favor corrige los errores en el formulario"
+  },
+  "errors": {
+    "serverError": "Error al conectar con el servidor",
+    "invalidCredentials": "Documento o contraseña incorrectos",
+    "registrationFailed": "Error al registrar usuario",
+    "registeredButLoginFailed": "Registro exitoso, pero hubo un error al iniciar sesión. Por favor, inicia sesión manualmente.",
+    "fixErrors": "Por favor corrige los errores en el formulario"
+  },
+  "products": {
+    "title": "Nuestros Productos",
+    "createProduct": "Crear Producto",
+    "editProduct": "Editar Producto",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "save": "Guardar",
+    "saving": "Guardando...",
+    "cancel": "Cancelar",
+    "addToCart": "Añadir al Carrito",
+    "addedToCart": "añadido al carrito",
+    "stock": "Stock",
+    "outOfStock": "Agotado",
+    "loginToBuy": "Inicia sesión para comprar",
+    "allCategories": "Todas las Categorías",
+    "noProducts": "No hay productos disponibles",
+    "confirmDelete": "¿Estás seguro de que quieres eliminar este producto?",
+    "errorCreating": "Error al crear el producto",
+    "errorUpdating": "Error al actualizar el producto",
+    "errorDeleting": "Error al eliminar el producto",
+    "categories": {
+      "women": "Mujer",
+      "men": "Hombre",
+      "accessories": "Accesorios",
+      "footwear": "Calzado"
+    },
+    "form": {
+      "name": "Nombre del Producto",
+      "description": "Descripción",
+      "price": "Precio",
+      "stock": "Stock",
+      "category": "Categoría",
+      "images": "Imágenes",
+      "uploadImages": "Subir imágenes desde tu dispositivo",
+      "uploadImagesHint": "Haz clic para seleccionar imágenes (puedes seleccionar varias)"
+    },
+    "uploadingImage": "Subiendo imagen...",
+    "errorUploadingImage": "Error al subir la imagen"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Estamos aquí para ayudarte. Envíanos un mensaje y te responderemos lo antes posible.",
+    "success": "¡Mensaje enviado! Hemos recibido tu consulta y te responderemos pronto. Revisa tu correo para ver nuestro mensaje de agradecimiento.",
+    "error": "Error al enviar el mensaje. Inténtalo nuevamente.",
+    "info": {
+      "title": "Información de Contacto",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "hours": "Horario de Atención",
+      "schedule": "Lunes a Viernes: 9:00 AM - 6:00 PM",
+      "social": "Síguenos en Redes Sociales"
+    },
+    "form": {
+      "title": "Envíanos un Mensaje",
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje",
+      "sending": "Enviando..."
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Conoce la historia detrás de Mar Store y nuestra pasión por la moda",
+    "hero": {
+      "title": "Nuestra Historia",
+      "description": "Desde 2020, Mar Store ha sido tu destino de confianza para moda y estilo. Comenzamos con un sueño: hacer que la moda de calidad sea accesible para todos."
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Inspirar confianza y estilo en cada persona a través de prendas de calidad excepcional, diseños únicos y un servicio al cliente incomparable. Creemos que la moda es una forma de expresión personal."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Ser la marca de moda líder en Colombia, reconocida por nuestra innovación, sostenibilidad y compromiso con nuestros clientes. Queremos que cada persona encuentre su estilo único con nosotros."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "quality": {
+        "title": "Calidad",
+        "description": "Seleccionamos cuidadosamente cada producto para garantizar materiales duraderos y acabados impecables."
+      },
+      "innovation": {
+        "title": "Innovación",
+        "description": "Constantemente exploramos nuevas tendencias y tecnologías para ofrecerte lo mejor del mundo de la moda."
+      },
+      "sustainability": {
+        "title": "Sostenibilidad",
+        "description": "Nos comprometemos con prácticas responsables que cuidan nuestro planeta y las comunidades que nos rodean."
+      },
+      "customer": {
+        "title": "Cliente Primero",
+        "description": "Tu satisfacción es nuestra prioridad. Estamos aquí para hacer tu experiencia de compra excepcional."
+      }
+    },
+    "stats": {
+      "customers": "Clientes Felices",
+      "products": "Productos",
+      "years": "Años de Experiencia",
+      "satisfaction": "Satisfacción"
+    },
+    "team": {
+      "title": "Nuestro Equipo",
+      "description": "Un equipo apasionado de profesionales dedicados a brindarte la mejor experiencia de moda."
+    },
+    "cta": {
+      "title": "¿Listo para explorar?",
+      "description": "Descubre nuestra colección y encuentra tu estilo único.",
+      "button": "Ver Productos"
+    }
+  },
+  "cart": {
+    "title": "Mi Carrito",
+    "empty": "Tu carrito está vacío",
+    "emptyDescription": "Agrega productos a tu carrito para comenzar a comprar.",
+    "continueShopping": "Continuar Comprando",
+    "item": "artículo",
+    "items": "artículos",
+    "quantity": "Cantidad",
+    "price": "Precio",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "remove": "Eliminar",
+    "clearCart": "Vaciar Carrito",
+    "checkout": "Proceder al Pago",
+    "confirmClear": "¿Estás seguro de que quieres vaciar el carrito?",
+    "itemAdded": "Producto agregado al carrito",
+    "itemRemoved": "Producto eliminado del carrito",
+    "itemUpdated": "Cantidad actualizada",
+    "summary": "Resumen del Pedido",
+    "shipping": "Envío",
+    "freeShipping": "Gratis",
+    "tax": "IVA (19%)",
+    "outOfStock": "Sin stock disponible",
+    "maxQuantity": "Stock máximo alcanzado"
+  }
+}
